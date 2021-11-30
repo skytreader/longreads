@@ -1,0 +1,23 @@
+{
+  "name": "longreads",
+  "version": "0.1.0-dev",
+  "description": "A minimalist JS library for supporting reading longform web textual content.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skytreader/longreads.git"
+  },
+  "keywords": [
+    "web",
+    "text"
+  ],
+  "author": "Chad Estioco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skytreader/longreads/issues"
+  },
+  "homepage": "https://github.com/skytreader/longreads#readme"
+}
